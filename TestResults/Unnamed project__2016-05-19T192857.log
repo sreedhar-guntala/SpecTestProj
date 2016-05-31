@@ -1,0 +1,25 @@
+﻿VS filter: testpath:TestAssembly:SpecTestProj2/Feature:GoogleSearch/Scenario:Google+Search+for+Execute+Automation
+Discovering target: Default
+Discovering tests from assembly: c:\Users\sree\Documents\Visual Studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\SpecTestProj2.dll
+Appdomain Disposed
+Test Suite Dump
+#0: Unnamed project/ - 
+#1: Default - 
+#2: SpecTestProj2 - 
+#3: GoogleSearch - 
+#4: Google Search for Execute Automation - TestAssembly:SpecTestProj2/Feature:GoogleSearch/Scenario:Google+Search+for+Execute+Automation
+End: Test Suite Dump -- X
+Scheduler: considering #4 for thread #0
+Scheduler: using #4 for thread #0
+Test #4 is scheduled for thread #0
+Thread #0: creating new test thread executor for SpecTestProj2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\sree\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.3.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Test #4/0 is started on thread #0
+Test #4 is finished on thread #0 as InitializationFailed within 0.3484095 seconds
+Appdomain Disposed
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1

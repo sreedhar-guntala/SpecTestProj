@@ -1,0 +1,17 @@
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\obj\Debug\SpecTestProj2.csprojResolveAssemblyReference.cache
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\SpecTestProj2.dll.config
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\SpecTestProj2.dll
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\SpecTestProj2.pdb
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\ImpromptuInterface.dll
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\nunit.framework.dll
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\SpecFlow.Assist.Dynamic.dll
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\WebDriver.dll
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\ImpromptuInterface.xml
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\nunit.framework.xml
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\SpecRun.SpecFlowPlugin.pdb
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\WebDriver.xml
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\obj\Debug\SpecTestProj2.dll
+C:\Users\sree\documents\visual studio 2015\Projects\SpecTestProj2\SpecTestProj2\obj\Debug\SpecTestProj2.pdb

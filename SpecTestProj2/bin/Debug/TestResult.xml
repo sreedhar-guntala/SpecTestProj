@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\sree\Documents\Visual Studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\SpecTestProj2.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-05-26" time="19:55:06">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8689" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="SREEJA" user="sree" user-domain="SREEJA" />
+  <culture-info current-culture="en-GB" current-uiculture="en-GB" />
+  <test-suite type="Assembly" name="C:\Users\sree\Documents\Visual Studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\SpecTestProj2.dll" executed="True" result="Success" success="True" time="6.614" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SpecTestProj2" executed="True" result="Success" success="True" time="6.609" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Features" executed="True" result="Success" success="True" time="6.605" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="GoogleSearchFeature" description="GoogleSearch" executed="True" result="Success" success="True" time="6.603" asserts="0">
+                <results>
+                  <test-case name="SpecTestProj2.Features.GoogleSearchFeature.GoogleSearchForExecuteAutomation" description="Google Search for Execute Automation" executed="True" result="Success" success="True" time="3.933" asserts="0">
+                    <categories>
+                      <category name="SmokeTest" />
+                    </categories>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1009]C:\Users\sree\Documents\Visual Studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\SpecTestProj2.dll</TopNode>
+  <SelectedNode>[0-1009]C:\Users\sree\Documents\Visual Studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\SpecTestProj2.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1009]C:\Users\sree\Documents\Visual Studio 2015\Projects\SpecTestProj2\SpecTestProj2\bin\Debug\SpecTestProj2.dll" Expanded="true" />
+    <Node UniqueName="[0-1010]SpecTestProj2" Expanded="true" />
+    <Node UniqueName="[0-1011]SpecTestProj2.Features" Expanded="true" />
+    <Node UniqueName="[0-1000]SpecTestProj2.Features.FlipkartDemoFeature" Expanded="true" />
+    <Node UniqueName="[0-1003]SpecTestProj2.Features.FlipkartDemoFeature.VerifySearchOperationIphone_Reg" Expanded="true" />
+    <Node UniqueName="[0-1001]SpecTestProj2.Features.FlipkartDemoFeature.VerifySearchOperationIphone_Smoke" Expanded="true" />
+    <Node UniqueName="[0-1007]SpecTestProj2.Features.GoogleSearchFeature" Expanded="true" />
+    <Node UniqueName="[0-1008]SpecTestProj2.Features.GoogleSearchFeature.GoogleSearchForExecuteAutomation" Checked="true" />
+  </Nodes>
+</VisualState>
